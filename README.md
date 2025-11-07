@@ -1,3 +1,4 @@
+```mermaid
 graph TD
     %% Tema Renkleri
     classDef anaTur fill:#ffebcc,stroke:#cc9900,stroke-width:2px,color:#000,font-weight:bold;
